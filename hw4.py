@@ -60,7 +60,6 @@ def merge(left, right):
 
     return merged
 
-
 def test_merge_sort(array):
     """Merge sort test function"""
     merge_sort(array)
